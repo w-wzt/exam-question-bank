@@ -1,0 +1,21 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# 源项目（不推送到GitHub）
+新建文件夹/
+
+# Trae IDE 配置
+.trae/
+
+# Gradle wrapper (Android Studio 会自动生成)
+gradle/wrapper/gradle-wrapper.jar
+gradlew
+gradlew.bat

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">题库</string>
+    <string name="app_description">离线题库应用，支持题库导入、刷题练习、模拟考试、错题本等功能。面向各类考试复习人员使用。维护单位：[单位名称]，联系电话：[联系电话]</string>
+    <string name="splash_maintainer">维护单位：[单位名称]</string>
+    <string name="splash_contact_phone">联系电话：[联系电话]</string>
+</resources>

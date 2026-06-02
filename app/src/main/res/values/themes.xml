@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ExamQuestionBank" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorOnPrimary">@color/on_primary</item>
+        <item name="android:colorPrimaryContainer">@color/primary_container</item>
+        <item name="android:colorOnPrimaryContainer">@color/on_primary_container</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+
+    <style name="Theme.ExamQuestionBank.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/primary</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.ExamQuestionBank</item>
+    </style>
+</resources>
